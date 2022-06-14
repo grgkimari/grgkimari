@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-<!--
-**grgkimari/grgkimari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#I am George Kimari, a software engineer based in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+My interests in the software development space include fintech, cloud technologies and web3 
 
-- 🔭 I’m currently working on my skills with several web projects
-- 🌱 I’m currently learning React JS and Kubernetes
-- 👯 I’m looking to collaborate on cloud, web and web3
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about cloud, web and web3 applications
-- 📫 How to reach me: grgkimari@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Find me on hackerRank - [ha](https://www.hackerrank.com/grgkimari)
--->
+[![grgkimari's GitHub stats](https://github-readme-stats.vercel.app/api?username=grgkimari)](https://github.com/grgkimari/github-readme-stats)
