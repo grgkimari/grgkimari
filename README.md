@@ -1,7 +1,5 @@
 ### Hi there 👋, Hello, I am George Kimari
 #### I am a software engineer based in Nairobi, Kenya
-![I am a software engineer based in Nairobi, Kenya](hackerrank.com/grgkimari)
-
 My interests in the software development space include fintech, cloud technologies and web3 
 
 Skills: PYTHON, JAVASCRIPT, DJANGO, JAVA, HTML, CSS
@@ -14,8 +12,6 @@ Skills: PYTHON, JAVASCRIPT, DJANGO, JAVA, HTML, CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/grgkimari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/grgkimari)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grgkimari)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=grgkimari)  
 
