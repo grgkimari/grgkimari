@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **cloud technologies, web and web applications3**
+- 👯 I’m looking to collaborate on **cloud technologies, web and web applications**
 
 - 📫 How to reach me **grgkimari@gmail.com**
 
