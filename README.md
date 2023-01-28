@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **scalable web and web3 applications**
 
-- 📝 I regularly write articles on [The MERN stack and Software Engineering in general.](The MERN stack and Software Engineering in general.)
+- 📝 I regularly write articles on the MERN stack and Software Engineering in general.
 
 - 💬 Ask me about **the MERN* stack**
 
