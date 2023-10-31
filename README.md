@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm George Kimari</h1>
-<h3 align="center">A Software Engineer based in Nairobi, Kenya.</h3>
+<h3 align="center">A nativeiOS developer based in Nairobi, Kenya.</h3>
 
-- 🔭 I’m currently working on **my backend skills**
+- 🔭 I’m currently working on **native iOS Apps**
 
-- 🌱 I’m currently learning **Advanced Database Management**
+- 👯 I’m looking to collaborate on **scalable, performant web and native iOS applications**
 
-- 👯 I’m looking to collaborate on **scalable web and web3 applications**
+- 📝 I regularly write articles on the MERN stack and native iOS  development.
 
-- 📝 I regularly write articles on the MERN stack and Software Engineering in general.
-
-- 💬 Ask me about **the MERN* stack**
+- 💬 Ask me about **Swift**
 
 - 📫 How to reach me **grgkimari@gmail.com**
 
