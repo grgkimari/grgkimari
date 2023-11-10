@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Kimari</h1>
-<h3 align="center">A nativeiOS developer based in Nairobi, Kenya.</h3>
+<h3 align="center">A native iOS developer based in Nairobi, Kenya.</h3>
 
 - 🔭 I’m currently working on **native iOS Apps**
 
